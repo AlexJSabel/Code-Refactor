@@ -1,5 +1,8 @@
-# Code-Refactor-
+# Code-Refactor
 Week 1 Challenge
+
+# Website Description
+  Horiseon SEO Company landing page. 
 
 ## Changes
 - Fixed hyperlinks
